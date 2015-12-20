@@ -10,7 +10,7 @@
   "version": "0.4.3",
   "license": "MIT",
   "dependencies": {
-    "async.util.doseries": "0.4.3",
+    "async.util.doseries": "0.5.0",
     "async.util.reject": "0.4.3"
   },
   "keywords": [
